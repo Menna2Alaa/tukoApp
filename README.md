@@ -1,7 +1,7 @@
+
 # tuko_app
-
 A new Flutter project.
-
+tukoApp is a flutter project that helps people how to speak colors, family members, numbers and some phrases in Japanese
 ## Getting Started
 
 This project is a starting point for a Flutter application.
